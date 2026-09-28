@@ -1,0 +1,27 @@
+Project 5 — Expense Analytics & Personal Finance System
+Problem Statement
+
+Build a Python-based personal finance system that stores and manages transaction history and analyzes spending patterns to help users understand their financial behavior.
+
+The system will use a transaction dataset (CSV) as its historical data source and allow users to:
+
+Add, view, update, and delete expenses.
+Store transaction details such as date, category, amount, description, and payment method.
+Validate and clean transaction data.
+Analyze spending using Pandas.
+Calculate financial KPIs such as total spending, average transaction, category-wise spending, and monthly spending.
+Generate meaningful visualizations and insights from the transaction history.
+Final Workflow
+Transaction Dataset (CSV)
+          ↓
+Data Loading & Validation
+          ↓
+Expense Management
+          ↓
+Data Cleaning
+          ↓
+Pandas Analysis
+          ↓
+EDA & Visualizations
+          ↓
+Financial Insights
