@@ -1,63 +1,62 @@
-transaction_id,date,category,description,amount,payment_method
-
-transaction_id,date,category,description,amount,payment_method
-10001,2026-09-01,Food,Breakfast,80,UPI
-10002,2026-09-01,Transport,Auto Fare,120,Cash
-10003,2026-09-02,Grocery,Vegetables,350,UPI
-10004,2026-09-02,Food,Lunch,180,UPI
-10005,2026-09-03,Medicine,Painkillers,120,UPI
-10006,2026-09-03,Entertainment,Movie Ticket,300,Card
-10007,2026-09-04,Transport,Bus Fare,40,Cash
-10008,2026-09-04,Food,Snacks,90,UPI
-10009,2026-09-05,Shopping,T-Shirt,799,Card
-10010,2026-09-05,Grocery,Milk and Bread,150,Cash
-10011,2026-09-06,Food,Dinner,250,UPI
-10012,2026-09-06,Personal Care,Shampoo,280,Card
-10013,2026-09-07,Transport,Auto Fare,150,UPI
-10014,2026-09-07,Education,Notebook and Pens,220,Cash
-10015,2026-09-08,Food,Breakfast,100,UPI
-10016,2026-09-08,Bills,Mobile Recharge,299,UPI
-10017,2026-09-09,Grocery,Fruits,280,Cash
-10018,2026-09-09,Entertainment,OTT Subscription,199,Card
-10019,2026-09-10,Transport,Bus Pass,500,UPI
-10020,2026-09-10,Food,Lunch,160,UPI
-10021,2026-09-11,Shopping,Footwear,1200,Card
-10022,2026-09-11,Medicine,Vitamins,450,UPI
-10023,2026-09-12,Food,Dinner,300,Cash
-10024,2026-09-12,Grocery,Rice and Dal,620,UPI
-10025,2026-09-13,Transport,Cab Fare,280,UPI
-10026,2026-09-13,Entertainment,Concert Ticket,850,Card
-10027,2026-09-14,Food,Breakfast,90,Cash
-10028,2026-09-14,Personal Care,Haircut,300,Cash
-10029,2026-09-15,Bills,Electricity Bill,1250,UPI
-10030,2026-09-15,Grocery,Groceries,780,Card
-10031,2026-09-16,Food,Lunch,190,UPI
-10032,2026-09-16,Transport,Auto Fare,100,Cash
-10033,2026-09-17,Education,Online Course,999,Card
-10034,2026-09-17,Food,Snacks,70,UPI
-10035,2026-09-18,Medicine,Cold Medicine,180,UPI
-10036,2026-09-18,Shopping,Jeans,1100,Card
-10037,2026-09-19,Grocery,Vegetables,420,Cash
-10038,2026-09-19,Food,Dinner,350,UPI
-10039,2026-09-20,Transport,Cab Fare,320,UPI
-10040,2026-09-20,Entertainment,Restaurant,650,Card
-10041,2026-09-21,Food,Breakfast,85,Cash
-10042,2026-09-21,Personal Care,Skincare Products,550,UPI
-10043,2026-09-22,Bills,Internet Bill,799,UPI
-10044,2026-09-22,Grocery,Milk and Eggs,180,Cash
-10045,2026-09-23,Food,Lunch,200,UPI
-10046,2026-09-23,Transport,Bus Fare,50,Cash
-10047,2026-09-24,Shopping,Backpack,950,Card
-10048,2026-09-24,Food,Dinner,280,UPI
-10049,2026-09-25,Medicine,Prescription Medicine,650,UPI
-10050,2026-09-25,Grocery,Fruits and Vegetables,450,Cash
-10051,2026-09-26,Entertainment,Game Subscription,499,Card
-10052,2026-09-26,Food,Snacks,110,UPI
-10053,2026-09-27,Transport,Auto Fare,130,Cash
-10054,2026-09-27,Education,Books,750,Card
-10055,2026-09-28,Food,Lunch,220,UPI
-10056,2026-09-28,Grocery,Monthly Groceries,1450,UPI
-10057,2026-09-29,Bills,Water Bill,350,UPI
-10058,2026-09-29,Personal Care,Face Wash,220,Card
-10059,2026-09-30,Food,Dinner,320,UPI
-10060,2026-09-30,Transport,Cab Fare,250,UPI
+transaction_id,date,category,description,amount,payment_method
+10001,2026-09-01,Food,Breakfast,80.0,UPI
+10002,2026-09-01,Transport,Auto Fare,120.0,Cash
+10003,2026-09-02,Grocery,Vegetables,350.0,UPI
+10004,2026-09-02,Food,Lunch,180.0,UPI
+10005,2026-09-03,Medicine,Painkillers,120.0,UPI
+10006,2026-09-03,Entertainment,Movie Ticket,300.0,Card
+10007,2026-09-04,Transport,Bus Fare,40.0,Cash
+10008,2026-09-04,Food,Snacks,90.0,UPI
+10009,2026-09-05,Shopping,T-Shirt,799.0,Card
+10010,2026-09-05,Grocery,Milk and Bread,150.0,Cash
+10011,2026-09-06,Food,Dinner,250.0,UPI
+10012,2026-09-06,Personal Care,Shampoo,280.0,Card
+10013,2026-09-07,Transport,Auto Fare,150.0,UPI
+10014,2026-09-07,Education,Notebook and Pens,220.0,Cash
+10015,2026-09-08,Food,Breakfast,100.0,UPI
+10016,2026-09-08,Bills,Mobile Recharge,299.0,UPI
+10017,2026-09-09,Grocery,Fruits,280.0,Cash
+10018,2026-09-09,Entertainment,OTT Subscription,199.0,Card
+10019,2026-09-10,Transport,Bus Pass,500.0,UPI
+10020,2026-09-10,Food,Lunch,160.0,UPI
+10021,2026-09-11,Shopping,Footwear,1200.0,Card
+10022,2026-09-11,Medicine,Vitamins,450.0,UPI
+10023,2026-09-12,Food,Dinner,300.0,Cash
+10024,2026-09-12,Grocery,Rice and Dal,620.0,UPI
+10025,2026-09-13,Transport,Cab Fare,280.0,UPI
+10026,2026-09-13,Entertainment,Concert Ticket,850.0,Card
+10027,2026-09-14,Food,Breakfast,90.0,Cash
+10028,2026-09-14,Personal Care,Haircut,300.0,Cash
+10029,2026-09-15,Bills,Electricity Bill,1250.0,UPI
+10030,2026-09-15,Grocery,Groceries,780.0,Card
+10031,2026-09-16,Food,Lunch,190.0,UPI
+10032,2026-09-16,Transport,Auto Fare,100.0,Cash
+10033,2026-09-17,Education,Online Course,999.0,Card
+10034,2026-09-17,Food,Snacks,70.0,UPI
+10035,2026-09-18,Medicine,Cold Medicine,180.0,UPI
+10036,2026-09-18,Shopping,Jeans,1100.0,Card
+10037,2026-09-19,Grocery,Vegetables,420.0,Cash
+10038,2026-09-19,Food,Dinner,350.0,UPI
+10039,2026-09-20,Transport,Cab Fare,320.0,UPI
+10040,2026-09-20,Entertainment,Restaurant,650.0,Card
+10041,2026-09-21,Food,Breakfast,85.0,Cash
+10042,2026-09-21,Personal Care,Skincare Products,550.0,UPI
+10043,2026-09-22,Bills,Internet Bill,799.0,UPI
+10044,2026-09-22,Grocery,Milk and Eggs,180.0,Cash
+10045,2026-09-23,Food,Lunch,200.0,UPI
+10046,2026-09-23,Transport,Bus Fare,50.0,Cash
+10047,2026-09-24,Shopping,Backpack,950.0,Card
+10048,2026-09-24,Food,Dinner,280.0,UPI
+10049,2026-09-25,Medicine,Prescription Medicine,650.0,UPI
+10050,2026-09-25,Grocery,Fruits and Vegetables,450.0,Cash
+10051,2026-09-26,Entertainment,Game Subscription,499.0,Card
+10052,2026-09-26,Food,Snacks,110.0,UPI
+10053,2026-09-27,Transport,Auto Fare,130.0,Cash
+10054,2026-09-27,Education,Books,750.0,Card
+10055,2026-09-28,Food,Lunch,220.0,UPI
+10056,2026-09-28,Grocery,Monthly Groceries,1450.0,UPI
+10057,2026-09-29,Bills,Water Bill,350.0,UPI
+10058,2026-09-29,Personal Care,Face Wash,220.0,Card
+10059,2026-09-30,Food,Dinner,320.0,UPI
+10060,2026-09-30,Transport,Cab Fare,250.0,UPI
+10061,2026-10-3,Medicine,Paracetamole,25.0,card
